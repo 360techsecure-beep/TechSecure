@@ -1,0 +1,9 @@
+# robots.txt for Tech Secure
+# ✏️ Replace the domain below with your real domain.
+
+User-agent: *
+Allow: /
+
+# Block nothing for now — single landing page.
+
+Sitemap: https://www.techsecurela.com/sitemap.xml
