@@ -282,3 +282,8 @@
 /* Blog featured images */
 .blog-card .thumb img{width:100%;height:100%;object-fit:cover;display:block}
 .article-img{width:100%;aspect-ratio:1200/630;object-fit:cover;border-radius:16px;border:1px solid var(--line);margin:6px 0 22px;display:block}
+
+/* Service-area pills */
+.areas-list{display:flex;flex-wrap:wrap;gap:10px}
+.area-pill{display:inline-flex;align-items:center;gap:4px;background:var(--panel);border:1px solid var(--line);color:var(--muted);padding:9px 15px;border-radius:999px;font-size:.92rem;font-weight:600}
+a.area-pill:hover{border-color:var(--accent);color:var(--accent)}

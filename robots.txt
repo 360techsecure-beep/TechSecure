@@ -6,4 +6,4 @@ Allow: /
 
 # Block nothing for now — single landing page.
 
-Sitemap: https://www.techsecurela.com/sitemap.xml
+Sitemap: https://www.360techsecure.com/sitemap.xml
