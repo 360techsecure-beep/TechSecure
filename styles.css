@@ -332,3 +332,8 @@ a.area-pill:hover{border-color:var(--accent);color:var(--accent)}
 
 /* Give the LA map a bit more room on desktop */
 @media(min-width:881px){.areas-split{grid-template-columns:1.1fr .9fr}}
+
+/* Static service-area map image + wide city list */
+.area-map{display:block;width:100%;max-width:1040px;margin:6px auto 26px;border-radius:18px;border:1px solid var(--line);box-shadow:var(--shadow)}
+.area-checklist-wide{grid-template-columns:repeat(3,1fr);max-width:900px;margin:0 auto}
+@media(max-width:760px){.area-checklist-wide{grid-template-columns:1fr 1fr}}
