@@ -2,7 +2,7 @@
 
 Both are now live and linked in your menu, footer, and sitemap:
 - **Blog** → `blog.html` (with **24 SEO-optimized articles**, dated weekly since January)
-- **Featured images** → the `blog-img/` folder (one branded image per post — upload this folder too)
+- **Featured images** → 24 branded `.jpg` files in the same root folder (one per post)
 - **Our Work gallery** → `gallery.html`
 
 Because the site is static (no server), you add content by editing files and uploading them
@@ -57,8 +57,8 @@ Open `blog.html`, copy one `<a class="blog-card">…</a>` block, and update its 
 
 ### 4. Give it a featured image
 Each post shows a featured image (used on the page, the blog cards, and when shared on
-social). The 24 starter posts come with branded images in the `blog-img/` folder. For a new
-post, either drop a photo into `blog-img/` and point the post's `<img class="article-img">`
+social). The 24 starter posts come with branded `.jpg` images in the main folder (named like the post). For a new
+post, either add a photo to the folder and point the post's `<img class="article-img">`
 and its card image at it, or reuse an existing one. Real job photos make great post images.
 
 ### 5. Add it to the sitemap
