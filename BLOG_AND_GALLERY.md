@@ -1,7 +1,8 @@
 # Blog & Gallery — How to Add Content
 
 Both are now live and linked in your menu, footer, and sitemap:
-- **Blog** → `blog.html` (with 3 starter articles)
+- **Blog** → `blog.html` (with **24 SEO-optimized articles**, dated weekly since January)
+- **Featured images** → the `blog-img/` folder (one branded image per post — upload this folder too)
 - **Our Work gallery** → `gallery.html`
 
 Because the site is static (no server), you add content by editing files and uploading them
@@ -54,7 +55,13 @@ and the article text in the `prose` section. Keep the rest as-is.
 Open `blog.html`, copy one `<a class="blog-card">…</a>` block, and update its link
 (`href`), title, excerpt, and date to point to your new post. Put newest at the top.
 
-### 4. Add it to the sitemap
+### 4. Give it a featured image
+Each post shows a featured image (used on the page, the blog cards, and when shared on
+social). The 24 starter posts come with branded images in the `blog-img/` folder. For a new
+post, either drop a photo into `blog-img/` and point the post's `<img class="article-img">`
+and its card image at it, or reuse an existing one. Real job photos make great post images.
+
+### 5. Add it to the sitemap
 In `sitemap.xml`, copy a `<url>…</url>` block and change the `<loc>` to your new post's URL.
 
 That's it. (If this feels fiddly, just tell me the topic and I'll generate a finished,
