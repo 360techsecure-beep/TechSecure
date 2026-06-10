@@ -329,3 +329,6 @@ a.area-pill:hover{border-color:var(--accent);color:var(--accent)}
 .area-checklist li::before{content:"📍";position:absolute;left:0;top:0;font-size:.9rem}
 .area-checklist a{color:var(--txt)}
 .area-checklist a:hover{color:var(--accent)}
+
+/* Give the LA map a bit more room on desktop */
+@media(min-width:881px){.areas-split{grid-template-columns:1.1fr .9fr}}
