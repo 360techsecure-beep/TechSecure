@@ -319,3 +319,13 @@ a.area-pill:hover{border-color:var(--accent);color:var(--accent)}
 .why-item .wic svg{width:20px;height:20px;color:var(--accent)}
 .why-item b{display:block;font-size:.98rem;margin-bottom:2px}
 .why-item span{color:var(--muted);font-size:.88rem;line-height:1.45}
+
+/* Service-area map + city checklist */
+.areas-split{align-items:center}
+.map-card .area-pill{margin:0}
+.area-checklist{list-style:none;display:grid;grid-template-columns:1fr 1fr;gap:11px 22px;margin-top:2px}
+@media(max-width:560px){.area-checklist{grid-template-columns:1fr}}
+.area-checklist li{position:relative;padding-left:26px;font-weight:600;font-size:1rem}
+.area-checklist li::before{content:"📍";position:absolute;left:0;top:0;font-size:.9rem}
+.area-checklist a{color:var(--txt)}
+.area-checklist a:hover{color:var(--accent)}
