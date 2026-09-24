@@ -20,7 +20,16 @@ and the blog index to avoid repeating work after a retry.
    invent job stories, customer reviews, certifications, prices, warranties,
    performance statistics, or claims of personal experience. No ranking promises.
 4. Reuse the current article layout, navigation, contact form and analytics.
-   Use an existing relevant image with accurate alt text. Link relevant service
+   Create a unique, topic-specific graphic for every new or substantially updated
+   post using the imagegen skill. Use a consistent midnight navy, mint and cyan
+   palette and restrained Tech Secure 360 branding. Match the subject to the
+   actual article: comparisons, explanatory illustrations or useful diagrams.
+   Do not reuse generic photos or merely swap a headline on the same image.
+   Do not present generated imagery as a real customer installation. Save the
+   asset in the repository, inspect its accuracy and mobile crop, and update
+   the article hero, blog card, social images and BlogPosting image together.
+   Use descriptive alt text. If image generation fails, retain a draft and
+   report the failure instead of publishing with a reused image. Link relevant service
    pages and related guides. Cite sources supporting technical or legal claims.
 5. Update all title, description, canonical, social and structured-data fields.
    Add the article to blog.html's cards and Blog schema, plus sitemap.xml.
@@ -72,4 +81,4 @@ word count: https://developers.google.com/search/docs/fundamentals/creating-help
 ## Publication log
 
 - 2026-09-24: Added installation-cost guide, blog card, Blog schema and sitemap
-  entry. Used the existing owner photo. Added content validation and this workflow.
+  entry. Created a unique installation-cost illustration after the owner requested custom graphics. Added content validation and this workflow.
