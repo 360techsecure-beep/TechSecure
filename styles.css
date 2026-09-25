@@ -337,3 +337,22 @@ a.area-pill:hover{border-color:var(--accent);color:var(--accent)}
 .area-map{display:block;width:100%;max-width:1040px;margin:6px auto 26px;border-radius:18px;border:1px solid var(--line);box-shadow:var(--shadow)}
 .area-checklist-wide{grid-template-columns:repeat(3,1fr);max-width:900px;margin:0 auto}
 @media(max-width:760px){.area-checklist-wide{grid-template-columns:1fr 1fr}}
+
+/* Small-screen navigation and touch-friendly forms. */
+.mobile-menu-toggle{display:none}
+@media(max-width:880px){
+ .mobile-menu-toggle{display:block;min-height:44px;padding:8px 12px;border:1px solid var(--line);border-radius:9px;background:var(--panel);color:var(--txt);font:inherit;cursor:pointer}
+ .nav{position:relative}.nav-cta{gap:8px}
+ .nav-links.mobile-open{display:flex;position:absolute;top:70px;left:0;right:0;flex-direction:column;align-items:stretch;gap:0;background:var(--bg-2);border:1px solid var(--line);border-radius:0 0 12px 12px;padding:8px;max-height:70dvh;overflow:auto}
+ .nav-links.mobile-open a{padding:12px;min-height:44px}
+ .field input,.field select,.field textarea{font-size:16px;min-width:0}
+ .hero-grid>*,.quote-grid>*,.split>*{min-width:0}
+ .mobile-bar{padding-bottom:max(10px,env(safe-area-inset-bottom))}
+}
+@media(max-width:560px){
+ header .nav-cta>.btn{display:none}
+ header .logo{font-size:1rem;gap:7px}
+ .hero{padding:46px 0}.hero-grid{gap:28px}
+ .badge{white-space:normal}
+}
+@media(max-width:560px){.blog-grid{grid-template-columns:minmax(0,1fr)}.area-checklist-wide{grid-template-columns:1fr}.hero h1{overflow-wrap:break-word}}
