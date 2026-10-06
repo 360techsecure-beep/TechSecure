@@ -65,7 +65,7 @@ of traffic improvement.
 | --- | --- | --- |
 | 1 | Published September 24 | Installation quote factors in Los Angeles; compare complete scopes, no invented prices |
 | 2 | Published October 2 | DVR/NVR not recording: distinguish live view from saved footage, check schedules and storage without erasing recordings |
-| 3 | Improve | Wired vs. wireless: explain power, local recording, cable routes and remote access separately |
+| 3 | Improved October 6 | Wired vs. wireless: explain power, local recording, cable routes and remote access separately |
 | 4 | New | Apartment-building planning for owners: entrances, mail areas, permissions, access to recordings; verify legal statements |
 | 5 | Improve | Choosing an installer: practical quote checklist and handover checks, no unsupported certification claims |
 | 6 | Improve | Recording retention: replace generic time recommendations with a storage-planning explanation and primary sources |
@@ -85,3 +85,6 @@ word count: https://developers.google.com/search/docs/fundamentals/creating-help
 - 2026-10-02: Added a DVR/NVR-not-recording troubleshooting guide, blog card,
   Blog schema and sitemap entry. Created a unique diagnostic illustration and
   emphasized evidence-preserving checks before formatting or resetting equipment.
+- 2026-10-06: Substantially improved the wired-versus-wireless guide to separate
+  power, connection, recording, cable-route and remote-access decisions. Added a
+  custom comparison graphic and updated metadata, the blog card and sitemap.
