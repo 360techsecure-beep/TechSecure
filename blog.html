@@ -310,7 +310,7 @@
     </nav>
     <div class="nav-cta">
       <a href="tel:+17473362737" class="nav-phone">(747) 336-2737</a>
-      <a href="#quote" class="btn btn-primary">Free Estimate</a>
+      <a href="contact.html" class="btn btn-primary">Free Estimate</a>
     </div>
   </div>
 </header>
@@ -324,6 +324,11 @@
 </section>
 <section class="pad">
   <div class="wrap">
+    <div class="blog-tools" aria-label="Filter articles">
+      <label class="blog-search"><span>Search guides</span><input id="blog-search" type="search" placeholder="Try “offline camera” or “business”" autocomplete="off"></label>
+      <div class="blog-filters" id="blog-filters" aria-label="Article categories"><button type="button" class="active" data-filter="all">All</button><button type="button" data-filter="Home Security">Home Security</button><button type="button" data-filter="Buyer's Guide">Buyer’s Guides</button><button type="button" data-filter="Business Security">Business</button><button type="button" data-filter="Troubleshooting">Troubleshooting</button><button type="button" data-filter="Local &amp; Legal">Local &amp; Legal</button><button type="button" data-filter="Seasonal">Seasonal</button></div>
+      <p class="blog-count" id="blog-count" aria-live="polite"></p>
+    </div>
     <div class="blog-grid">
       <a class="blog-card" href="blog-dvr-nvr-not-recording.html"><div class="thumb"><img src="blog-dvr-nvr-not-recording.png" style="object-fit:cover;background:#071a32" alt="Illustrated recorder dashboard showing live cameras, a recording timeline gap, schedule, storage drive, and clock" loading="lazy"></div><div class="cbody"><span class="cat">Troubleshooting</span><h3>DVR or NVR Not Recording? Safe Troubleshooting Steps</h3><p>Live video but no playback? Check the schedule, recorder clock, camera status, and storage health without erasing existing footage.</p><span class="meta">October 2, 2026</span></div></a>
       <a class="blog-card" href="blog-security-camera-installation-cost-los-angeles.html"><div class="thumb"><img src="blog-security-camera-installation-cost-los-angeles.png" style="object-fit:contain;background:#0a0e17" alt="Illustration of camera installation equipment and a quote checklist" loading="lazy"></div><div class="cbody"><span class="cat">Buyer's Guide</span><h3>Security Camera Installation Costs in Los Angeles: What Goes Into Your Quote</h3><p>Understand what changes an installation quote and compare equipment, cabling, storage, and support before choosing a system.</p><span class="meta">September 24, 2026</span></div></a>
@@ -434,5 +439,6 @@
 </div>
 
 
+<script src="blog-filter.js" defer></script>
 </body>
 </html>
