@@ -88,3 +88,5 @@ word count: https://developers.google.com/search/docs/fundamentals/creating-help
 - 2026-10-06: Substantially improved the wired-versus-wireless guide to separate
   power, connection, recording, cable-route and remote-access decisions. Added a
   custom comparison graphic and updated metadata, the blog card and sitemap.
+
+- 2026-10-11: Published an apartment-building planning guide for owners and managers, including coverage goals, privacy review, account permissions, retention, cabling, and handoff. Substantially improved the existing footage-retention article with a storage-planning workflow and primary sources. Created a unique graphic for each article.
