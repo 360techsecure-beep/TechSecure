@@ -3,8 +3,8 @@
 ## Publishing
 
 The owner authorized automatic article publishing on September 24, 2026.
-The initial cadence is one new or substantially improved article per week,
-scheduled in the Codex task for Tuesdays at 9 AM America/Los_Angeles.
+The current cadence is three new or substantially improved articles per week,
+scheduled in the Codex task for Mondays, Wednesdays, and Fridays at 9 AM America/Los_Angeles.
 The schedule lives in Codex, not in this repository or Vercel. It uses the
 local checkout and available GitHub access. There is no separate AI API backend.
 
@@ -66,9 +66,9 @@ of traffic improvement.
 | 1 | Published September 24 | Installation quote factors in Los Angeles; compare complete scopes, no invented prices |
 | 2 | Published October 2 | DVR/NVR not recording: distinguish live view from saved footage, check schedules and storage without erasing recordings |
 | 3 | Improved October 6 | Wired vs. wireless: explain power, local recording, cable routes and remote access separately |
-| 4 | New | Apartment-building planning for owners: entrances, mail areas, permissions, access to recordings; verify legal statements |
-| 5 | Improve | Choosing an installer: practical quote checklist and handover checks, no unsupported certification claims |
-| 6 | Improve | Recording retention: replace generic time recommendations with a storage-planning explanation and primary sources |
+| 4 | Published October 11 | Apartment-building planning for owners: entrances, mail areas, permissions, access to recordings; verify legal statements |
+| 5 | Improved October 12 | Choosing an installer: practical quote checklist and handover checks, no unsupported certification claims |
+| 6 | Improved October 11 | Recording retention: replace generic time recommendations with a storage-planning explanation and primary sources |
 
 Choose a different useful topic if research or newly available performance data
 supports it. Do not manufacture near-identical city pages for keyword variations.
@@ -90,3 +90,5 @@ word count: https://developers.google.com/search/docs/fundamentals/creating-help
   custom comparison graphic and updated metadata, the blog card and sitemap.
 
 - 2026-10-11: Published an apartment-building planning guide for owners and managers, including coverage goals, privacy review, account permissions, retention, cabling, and handoff. Substantially improved the existing footage-retention article with a storage-planning workflow and primary sources. Created a unique graphic for each article.
+
+- 2026-10-12: Substantially improved the installer-selection guide with a scope-comparison checklist, independent license verification guidance, recording and retention questions, account ownership, acceptance testing, and owner handoff. Added a unique quote-comparison illustration and updated metadata, blog discovery, and sitemap.
