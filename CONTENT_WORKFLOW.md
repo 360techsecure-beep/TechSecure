@@ -92,3 +92,9 @@ word count: https://developers.google.com/search/docs/fundamentals/creating-help
 - 2026-10-11: Published an apartment-building planning guide for owners and managers, including coverage goals, privacy review, account permissions, retention, cabling, and handoff. Substantially improved the existing footage-retention article with a storage-planning workflow and primary sources. Created a unique graphic for each article.
 
 - 2026-10-12: Substantially improved the installer-selection guide with a scope-comparison checklist, independent license verification guidance, recording and retention questions, account ownership, acceptance testing, and owner handoff. Added a unique quote-comparison illustration and updated metadata, blog discovery, and sitemap.
+
+- 2026-10-14: Substantially improved the night-vision guide with symptom-based
+  troubleshooting for IR reflection, lens contamination, motion blur, backlighting,
+  illumination, and recorded-video testing. Added a unique diagnostic illustration,
+  primary manufacturer sources, internal links, updated metadata, blog discovery,
+  and sitemap freshness.
