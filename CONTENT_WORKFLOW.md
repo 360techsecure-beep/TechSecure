@@ -98,3 +98,9 @@ word count: https://developers.google.com/search/docs/fundamentals/creating-help
   illumination, and recorded-video testing. Added a unique diagnostic illustration,
   primary manufacturer sources, internal links, updated metadata, blog discovery,
   and sitemap freshness.
+
+- 2026-10-16: Substantially improved the camera-offline guide with a layer-by-layer
+  diagnostic sequence covering power, PoE, cable, Wi-Fi, addressing, recorder health,
+  and remote access. Removed unsupported frequency claims, added evidence-preserving
+  guidance and primary manufacturer sources, created a unique diagnostic graphic, and
+  updated metadata, blog discovery, and sitemap freshness.
