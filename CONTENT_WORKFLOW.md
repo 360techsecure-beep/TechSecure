@@ -104,3 +104,9 @@ word count: https://developers.google.com/search/docs/fundamentals/creating-help
   and remote access. Removed unsupported frequency claims, added evidence-preserving
   guidance and primary manufacturer sources, created a unique diagnostic graphic, and
   updated metadata, blog discovery, and sitemap freshness.
+
+- 2026-10-19: Substantially improved the false-motion-alert guide with a
+  trigger-first diagnostic workflow, precise activity and exclusion zones,
+  object-type selection, one-setting-at-a-time filter testing, scene and
+  schedule fixes, and primary manufacturer sources. Added a unique detection-zone
+  illustration and updated metadata, blog discovery, structured data, and sitemap freshness.
