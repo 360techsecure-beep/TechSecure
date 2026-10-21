@@ -110,3 +110,10 @@ word count: https://developers.google.com/search/docs/fundamentals/creating-help
   object-type selection, one-setting-at-a-time filter testing, scene and
   schedule fixes, and primary manufacturer sources. Added a unique detection-zone
   illustration and updated metadata, blog discovery, structured data, and sitemap freshness.
+
+- 2026-10-21: Substantially improved the camera-system upgrade guide with a
+  practical audit of recorded evidence, reliability, firmware support, account
+  ownership, retention, compatibility, and coverage. Added repair-versus-upgrade
+  decision guidance, primary CISA, ONVIF, and manufacturer sources, a unique
+  system-audit illustration, internal links, updated metadata, blog discovery,
+  structured data, and sitemap freshness.
