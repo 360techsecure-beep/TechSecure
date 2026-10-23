@@ -117,3 +117,10 @@ word count: https://developers.google.com/search/docs/fundamentals/creating-help
   decision guidance, primary CISA, ONVIF, and manufacturer sources, a unique
   system-audit illustration, internal links, updated metadata, blog discovery,
   structured data, and sitemap freshness.
+
+- 2026-10-23: Substantially improved the camera-hacking prevention guide with a
+  layered checklist covering device and cloud credentials, MFA, verified updates,
+  internet exposure, network segmentation, account review, incident response, and
+  unsupported-device replacement. Added primary FTC, CISA, and NIST sources, a
+  unique layered-security illustration, internal links, updated metadata, blog
+  discovery, structured data, and sitemap freshness.
