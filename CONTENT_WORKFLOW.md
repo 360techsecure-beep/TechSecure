@@ -124,3 +124,10 @@ word count: https://developers.google.com/search/docs/fundamentals/creating-help
   unsupported-device replacement. Added primary FTC, CISA, and NIST sources, a
   unique layered-security illustration, internal links, updated metadata, blog
   discovery, structured data, and sitemap freshness.
+
+- 2026-10-26: Substantially improved the power-outage guide with a complete
+  recording-path audit, system-specific backup requirements, load-based UPS sizing,
+  separate local-recording and remote-access goals, a controlled outage test, and
+  recovery checks. Removed unsupported runtime promises, added primary manufacturer
+  sources, a unique power-path graphic, internal links, updated metadata, blog
+  discovery, structured data, and sitemap freshness.
