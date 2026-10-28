@@ -131,3 +131,11 @@ word count: https://developers.google.com/search/docs/fundamentals/creating-help
   recovery checks. Removed unsupported runtime promises, added primary manufacturer
   sources, a unique power-path graphic, internal links, updated metadata, blog
   discovery, structured data, and sitemap freshness.
+
+- 2026-10-28: Substantially improved the home camera-placement guide with a
+  purpose-first plan for entries and approaches, separate overview and detail
+  views, pixel-density guidance, mounting-angle and lighting checks, protected
+  power and data routes, and a recorded-video test checklist. Removed invented
+  experience and burglary statistics, added primary manufacturer sources, a
+  unique home-coverage graphic, internal links, updated metadata, blog discovery,
+  structured data, and sitemap freshness.
