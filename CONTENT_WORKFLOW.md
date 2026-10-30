@@ -139,3 +139,11 @@ word count: https://developers.google.com/search/docs/fundamentals/creating-help
   experience and burglary statistics, added primary manufacturer sources, a
   unique home-coverage graphic, internal links, updated metadata, blog discovery,
   structured data, and sitemap freshness.
+
+- 2026-10-30: Substantially improved the cloud-versus-local storage guide with
+  clear distinctions among NVR/DVR, edge, NAS and cloud recording; failure-mode
+  comparisons; recording-mode, retention, bandwidth and account-control questions;
+  a practical hybrid design; and an acceptance-test checklist. Removed blanket cost
+  and “hybrid wins” claims, added primary manufacturer and CISA sources, a unique
+  storage-path graphic, internal links, updated metadata, blog discovery, structured
+  data, and sitemap freshness.
