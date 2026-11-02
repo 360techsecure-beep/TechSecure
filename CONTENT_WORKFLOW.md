@@ -147,3 +147,10 @@ word count: https://developers.google.com/search/docs/fundamentals/creating-help
   and “hybrid wins” claims, added primary manufacturer and CISA sources, a unique
   storage-path graphic, internal links, updated metadata, blog discovery, structured
   data, and sitemap freshness.
+
+- 2026-11-02: Substantially improved the internet-speed guide with a path-first
+  bandwidth plan based on recording destination, actual bitrate, simultaneous
+  streams, upload, download, latency and packet loss. Removed unsupported fixed
+  per-camera Mbps estimates, added a controlled measurement workflow, primary
+  Axis, Ubiquiti and FCC sources, a unique network-path graphic, internal links,
+  updated metadata, blog discovery, structured data, and sitemap freshness.
