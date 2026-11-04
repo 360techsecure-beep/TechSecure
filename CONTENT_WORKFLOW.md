@@ -154,3 +154,11 @@ word count: https://developers.google.com/search/docs/fundamentals/creating-help
   per-camera Mbps estimates, added a controlled measurement workflow, primary
   Axis, Ubiquiti and FCC sources, a unique network-path graphic, internal links,
   updated metadata, blog discovery, structured data, and sitemap freshness.
+
+- 2026-11-04: Substantially improved the camera-resolution guide with a
+  purpose-first comparison of 1080p, 2K and 4K; pixel-density planning for
+  detection, observation, recognition and identification; field-of-view,
+  distance, lens, lighting, motion and compression tradeoffs; and a recorded-
+  footage acceptance test. Removed broad camera-by-area recommendations, added
+  primary Axis sources, a unique overview-versus-detail graphic, internal links,
+  updated metadata, blog discovery, structured data, and sitemap freshness.
