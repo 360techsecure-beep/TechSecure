@@ -162,3 +162,10 @@ word count: https://developers.google.com/search/docs/fundamentals/creating-help
   footage acceptance test. Removed broad camera-by-area recommendations, added
   primary Axis sources, a unique overview-versus-detail graphic, internal links,
   updated metadata, blog discovery, structured data, and sitemap freshness.
+
+- 2026-11-06: Substantially improved the camera-count guide by replacing generic
+  home-size ranges with a coverage-job workflow for entrances, approaches,
+  overview and detail views, blind spots, power, recording and acceptance tests.
+  Added primary Axis planning sources, a unique property coverage-zone graphic,
+  internal links, updated metadata, blog discovery, structured data, and sitemap
+  freshness.
