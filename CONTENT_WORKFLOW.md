@@ -169,3 +169,10 @@ word count: https://developers.google.com/search/docs/fundamentals/creating-help
   Added primary Axis planning sources, a unique property coverage-zone graphic,
   internal links, updated metadata, blog discovery, structured data, and sitemap
   freshness.
+
+- 2026-11-09: Substantially improved the indoor-versus-outdoor camera guide with
+  a location-first comparison of outdoor approval, IP and IK ratings, operating
+  temperature, sun, corrosion, cable-entry sealing, privacy, window reflections,
+  garage and covered-patio decisions, maintenance and acceptance testing. Added
+  primary Axis sources, a unique split-environment graphic, internal links,
+  updated metadata, blog discovery, structured data, and sitemap freshness.
