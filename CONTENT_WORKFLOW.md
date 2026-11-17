@@ -176,3 +176,10 @@ word count: https://developers.google.com/search/docs/fundamentals/creating-help
   garage and covered-patio decisions, maintenance and acceptance testing. Added
   primary Axis sources, a unique split-environment graphic, internal links,
   updated metadata, blog discovery, structured data, and sitemap freshness.
+
+- 2026-11-17: Substantially improved the security-camera-features guide by
+  replacing a generic feature ranking with a buyer's checklist for recorded
+  image quality, detection controls, recording and export, failure behavior,
+  cybersecurity, support lifecycle and exact ONVIF compatibility. Added primary
+  Axis, ONVIF and CISA sources, a unique feature-path diagram, internal links,
+  updated metadata, blog discovery, structured data, and sitemap freshness.
