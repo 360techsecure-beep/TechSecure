@@ -183,3 +183,11 @@ word count: https://developers.google.com/search/docs/fundamentals/creating-help
   cybersecurity, support lifecycle and exact ONVIF compatibility. Added primary
   Axis, ONVIF and CISA sources, a unique feature-path diagram, internal links,
   updated metadata, blog discovery, structured data, and sitemap freshness.
+
+- 2026-11-18: Substantially improved the security-camera-lighting guide with a
+  purpose-first night-lighting plan covering visible light versus infrared,
+  even illumination, fixture direction and shielding, reflections, motion-light
+  timing, exposure changes and recorded acceptance testing. Removed unsupported
+  deterrence claims, added primary Axis and National Park Service sources, a
+  unique glare-versus-even-lighting diagram, internal links, updated metadata,
+  blog discovery, structured data, and sitemap freshness.
