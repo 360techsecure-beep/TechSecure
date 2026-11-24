@@ -191,3 +191,11 @@ word count: https://developers.google.com/search/docs/fundamentals/creating-help
   deterrence claims, added primary Axis and National Park Service sources, a
   unique glare-versus-even-lighting diagram, internal links, updated metadata,
   blog discovery, structured data, and sitemap freshness.
+
+- 2026-11-24: Substantially improved the after-a-break-in guide with a safety-
+  first, evidence-preserving workflow for protecting the scene, documenting the
+  recorder clock, selecting a complete incident window, exporting native-quality
+  video, keeping an unchanged copy and recording transfer details. Removed vague
+  claims, added primary LAPD, DOJ and Axis sources, a unique preservation-process
+  graphic, internal links, updated metadata, blog discovery, structured data,
+  and sitemap freshness.
